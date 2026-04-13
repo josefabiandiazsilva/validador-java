@@ -22,7 +22,7 @@ Ubique el archivo `validar_java.py` en la misma carpeta del archivo `.java` y ej
 ```bash
 python validar_java.py MiClase.java
 
-### Entrega
+## Entrega
 /**
  * Nombre del estudiante: [Nombre completo]
  * Fecha de creación: [DD/MM/AAAA]
