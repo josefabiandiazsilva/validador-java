@@ -15,7 +15,7 @@ Este repositorio permite validar automáticamente una entrega en Java consideran
 
 ---
 
----
+
 
 ## 📄 Documentación obligatoria en el archivo Java
 
